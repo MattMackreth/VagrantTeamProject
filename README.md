@@ -1,11 +1,11 @@
-# How to install developer environment :collision:
-If you already have vagrant and virtualbox (and they are working correctly) skip to step 7
-## 1. Install Vagrant :collision:
+# How to install developer environment
+If you already have Vagrant and VirtualBox (and they are working correctly) skip to step 7.
+## 1. Install Vagrant
 Download and install the most up to date version of vagrant by Hashicorp.
 Available at https://www.vagrantup.com/downloads.html
 
-## 2. Install VirtualBox :collision:
-Download and install VirtualBox 6.0 by oracle.
+## 2. Install VirtualBox
+Download and install VirtualBox 6.0 by Oracle.
 Available at https://www.virtualbox.org/wiki/Downloads
 As well as the Extension Pack from the same page.
 
@@ -54,5 +54,5 @@ Type in $ sudo systemctl start nginx
 
 ## 14. You can now access the server
 Going to http://development.local will show you the default NGINX welcome page.
-  C:\Users\MMackreth\Engineering3637\DevOpsMutabl<br />  
+  <br />  
   :pray:S:pray:E:pray:L:pray:F:pray:5:pray:
