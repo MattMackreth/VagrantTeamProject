@@ -16,16 +16,16 @@ Turn off your machine. Then turn it back on while holding F10. Navigate to Syste
 Search for and go into 'Turn Windows Features on or off' and ensure the HyperV box is unchecked. If it was checked, uncheck it and restart your computer.
 
 ## 5. Enable VirtualBox Host network
-##### 1. Go to control panel
-##### 2. Go to network and internet
-##### 3. Go to network and sharing centre
-##### 4. Go to change adapter settings.
-##### 5. Right click on VirtualBox Host Only Network (or Ethernet 2) and click on properties.
-##### 6. Click install
-##### 7. Click Services
-##### 8. Click add
-##### 9. On the left under Manufacturer click Oracle Corporation.
-##### 10. Press OK on all dialogue boxes.
+ 1. Go to control panel
+ 2. Go to network and internet
+ 3. Go to network and sharing centre
+ 4. Go to change adapter settings.
+ 5. Right click on VirtualBox Host Only Network (or Ethernet 2) and click on properties.
+ 6. Click install
+ 7. Click Services
+ 8. Click add
+ 9. On the left under Manufacturer click Oracle Corporation.
+ 10. Press OK on all dialogue boxes.
 
 ## 6. Start virtualbox
 Type in $ sc start vboxdrv
@@ -53,4 +53,4 @@ Type in $ sudo apt-get install nginx -y
 Type in $ sudo systemctl start nginx
 
 ## 14. You can now access the server
-Going to http://development.local will show you the default NGINX welcome page. 
+Going to http://development.local will show you the default NGINX welcome page.
