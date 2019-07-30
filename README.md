@@ -27,7 +27,7 @@ Search for and go into 'Turn Windows Features on or off' and ensure the HyperV b
  9. On the left under Manufacturer click Oracle Corporation.
  10. Press OK on all dialogue boxes.
 
-## 6. Start virtualbox
+## 6. Start Oracle VirtualBox Manager
 Type in $ sc start vboxdrv
 
 ## 7. Pull all files down into your directory.
