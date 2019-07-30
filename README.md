@@ -1,5 +1,5 @@
 # How to install developer environment
-If you already have vagrant and virtualbox (and they are working correctly) skip to step 7
+If you already have Vagrant and VirtualBox (and they are working correctly) skip to step 7.
 ## 1. Install Vagrant
 Download and install the most up to date version of vagrant by Hashicorp.
 Available at https://www.vagrantup.com/downloads.html
