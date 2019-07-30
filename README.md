@@ -54,3 +54,4 @@ Type in $ sudo systemctl start nginx
 
 ## 14. You can now access the server
 Going to http://development.local will show you the default NGINX welcome page.
+:pray:S:pray:E:pray:L:pray:F:pray:5:pray:
