@@ -1,11 +1,11 @@
 # How to install developer environment
-If you already have vagrant and virtualbox (and they are working correctly) skip to step 7
+If you already have Vagrant and VirtualBox (and they are working correctly) skip to step 7.
 ## 1. Install Vagrant
 Download and install the most up to date version of vagrant by Hashicorp.
 Available at https://www.vagrantup.com/downloads.html
 
 ## 2. Install VirtualBox
-Download and install VirtualBox 6.0 by oracle.
+Download and install VirtualBox 6.0 by Oracle.
 Available at https://www.virtualbox.org/wiki/Downloads
 As well as the Extension Pack from the same page.
 
