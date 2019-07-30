@@ -31,8 +31,26 @@ Search for and go into 'Turn Windows Features on or off' and ensure the HyperV b
 Type in $ sc start vboxdrv
 
 ## 7. Pull all files down into your directory.
+Using $ git pull
 
+## 8. Make sure you have the vagrant hostsupdater plugin
+Type in $ vagrant plugin install vagrant-hostsupdater
 
+## 9. Spin up the virtual machine
+Type in $ vagrant up
 
+## 10. Enter the virtual machine
+Type in $ vagrant ssh
+You are now logged into the virtual machine
 
-## 8. Start
+## 11. Ensure everything is up to date
+Type in $ sudo apt-get update
+
+## 12. Start NGINX server
+Type in $ sudo apt-get install nginx -y
+
+## 13. Start up NGINX
+Type in $ sudo systemctl start nginx
+
+## 14. You can now access the server
+Going to http://development.local will show you the default NGINX welcome page. 
