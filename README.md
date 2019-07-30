@@ -30,7 +30,7 @@ Search for and go into 'Turn Windows Features on or off' and ensure the HyperV b
 ## 6. Start Oracle VirtualBox Manager
 Type in $ sc start vboxdrv
 
-## 7. Pull all files down into your directory.
+## 7. Pull all files down into your directory
 Using $ git pull
 
 ## 8. Make sure you have the vagrant hostsupdater plugin
