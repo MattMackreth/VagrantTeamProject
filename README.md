@@ -1,5 +1,5 @@
 # How to install developer environment
-If you already have Vagrant and VirtualBox (and they are working correctly) skip to step 7.
+If you already have vagrant and virtualbox (and they are working correctly) skip to step 7
 ## 1. Install Vagrant
 Download and install the most up to date version of vagrant by Hashicorp.
 Available at https://www.vagrantup.com/downloads.html
@@ -53,6 +53,5 @@ Type in $ sudo apt-get install nginx -y
 Type in $ sudo systemctl start nginx
 
 ## 14. You can now access the server
-Going to http://development.local will show you the default NGINX welcome page.
-\n
+Going to http://development.local will show you the default NGINX welcome page.\n
 :pray:S:pray:E:pray:L:pray:F:pray:5:pray:
